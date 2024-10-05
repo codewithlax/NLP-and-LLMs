@@ -1,2 +1,4 @@
-# NLP-and-LLMs
-NLP | LLM | BERT | GPT | Hugging Face and more
+Fake News Classifier with LSTM.
+- Also includes EDA/Data Cleaning (Basics)
+- Embeddings
+- Tensorflow LSTM implementation
